@@ -1,0 +1,708 @@
+Reading in key...
+Formating key...
+Applying key expansion algorithm...
+Printing key
+00  00  00  00  00  00  00  00  62  62  62  62  aa  aa  aa  aa  6f  0d  6f  0d  7d  d7  7d  d7  53  5e  31  3c  96  41  3c  eb  9e  c0  f1  cd  2b  6a  56  bd  64  a4  55  98  6d  07  51  ec  e7  43  16  8e  74  73  22  ce  10  53  45  cb  6b  18  3a  f4  
+00  00  00  00  00  00  00  00  63  63  63  63  fb  fb  fb  fb  6c  0f  6c  0f  8d  76  8d  76  54  5b  37  38  8a  fc  71  07  aa  f1  c6  fe  31  cd  bc  bb  06  f7  31  cf  bb  76  ca  71  b0  47  76  b9  ed  9b  51  20  f8  bf  c9  70  bc  27  76  56  
+00  00  00  00  00  00  00  00  63  63  63  63  fb  fb  fb  fb  6c  0f  6c  0f  8d  76  8d  76  ed  e2  8e  81  81  f7  7a  0c  8f  6d  e3  62  2b  dc  a6  aa  fd  90  73  11  a9  75  d3  79  e8  78  0b  1a  0b  7e  ad  d4  0a  72  79  63  f0  8e  23  f7  
+00  00  00  00  00  00  00  00  63  63  63  63  fb  fb  fb  fb  cf  ac  cf  ac  6a  91  6a  91  c1  6d  a2  0e  c1  50  3a  ab  28  45  e7  e9  df  8f  b5  1e  52  17  f0  19  0b  84  31  2f  9c  8b  7b  62  a1  25  14  3b  17  9c  e7  85  36  13  07  3c  
+newText = 2d5da3f6dde6ee4ae0d34738ee825de4
+Formating state...
+PRINTING FINAL RESULT...
+bc  82  95  fa  
+06  8a  61  56  
+e8  e1  14  cb  
+5b  db  b4  5d  
+newText = 73b103c28efcb1a7363a59a9113f8210
+Formating state...
+PRINTING FINAL RESULT...
+4e  19  33  7a  
+f2  38  77  de  
+27  50  e2  18  
+35  36  90  92  
+newText = 4e27f895cafb45e7a992bd003ba2a9bd
+Formating state...
+PRINTING FINAL RESULT...
+00  5c  fb  9a  
+b6  b4  12  db  
+a7  e3  3b  c9  
+31  ed  74  23  
+newText = 7edb876efea5f8fe21497301132f9137
+Formating state...
+PRINTING FINAL RESULT...
+5b  98  2a  08  
+20  d5  c0  6f  
+5f  da  be  0d  
+b2  80  8e  59  
+newText = 6120dd2d3c71c1e3bf3be61e812a08dc
+Formating state...
+PRINTING FINAL RESULT...
+57  74  ac  1e  
+63  2b  07  9b  
+59  bd  12  19  
+a1  30  b5  57  
+newText = 1dbc6b09cce6d1e3eb052df7147aa382
+Formating state...
+PRINTING FINAL RESULT...
+31  59  89  9e  
+66  3d  e9  c2  
+1d  40  78  58  
+63  4f  97  76  
+newText = 4b28760f89dd0fcf0d83e086ae137d66
+Formating state...
+PRINTING FINAL RESULT...
+34  15  0f  1f  
+c6  3e  b1  8b  
+11  5d  cc  1b  
+c3  5c  34  88  
+newText = 3b329cc83a04d654a66e79fb0531706c
+Formating state...
+PRINTING FINAL RESULT...
+aa  e7  93  aa  
+56  83  0d  c0  
+fe  28  65  6a  
+47  ef  ea  2d  
+newText = 33a21834f1700a253055c52cdf7c131b
+Formating state...
+PRINTING FINAL RESULT...
+ad  ca  4c  a7  
+c5  a3  a9  c1  
+d2  db  25  15  
+73  a1  c3  75  
+newText = 652304f218e544a55646909db1500531
+Formating state...
+PRINTING FINAL RESULT...
+9a  ca  5e  3a  
+2d  96  82  35  
+91  3c  cc  0e  
+dd  77  4c  09  
+newText = d0e6ae8f1082bf0af901269aa544d29e
+Formating state...
+PRINTING FINAL RESULT...
+44  c7  0b  f1  
+ea  83  9b  92  
+30  dd  bb  b8  
+cf  38  57  d1  
+newText = b7f4d84bff381e7b89b5ed8532a0440c
+Formating state...
+PRINTING FINAL RESULT...
+10  22  7b  fc  
+f9  53  09  39  
+8b  54  9e  64  
+1e  8b  5a  1f  
+newText = 9dc83fc83953d485081e2ce518e22ca0
+Formating state...
+PRINTING FINAL RESULT...
+48  fc  e2  c0  
+49  f1  71  16  
+ec  4c  fd  89  
+a7  9c  54  06  
+newText = aa35c0f23280b5e9b090fe9944e434c8
+Formating state...
+PRINTING FINAL RESULT...
+97  3d  db  f7  
+0e  65  a3  53  
+f6  0f  61  c1  
+62  ac  b6  6c  
+newText = 7995784d6fe7ba3ebba15da09200b736
+Formating state...
+PRINTING FINAL RESULT...
+5e  6e  da  be  
+c5  19  4a  91  
+3a  7c  14  68  
+33  1c  3b  26  
+newText = 237eaaffab1a055cdfc8a1237e2efa8c
+Formating state...
+PRINTING FINAL RESULT...
+93  00  e6  d6  
+e6  09  4e  68  
+b7  9c  5a  a4  
+2f  35  79  14  
+newText = e35d5ddf17ae1963404f9d3f4069775e
+Formating state...
+PRINTING FINAL RESULT...
+32  d4  a3  06  
+9d  41  d4  0b  
+b4  47  e3  4e  
+72  44  56  bb  
+newText = f38abee39195f50d7a61215445c21698
+Formating state...
+PRINTING FINAL RESULT...
+61  e2  5d  fa  
+69  37  dd  de  
+11  ed  85  63  
+8a  e9  9b  18  
+newText = 4302a8e70efeaa1dbd882b1ec3e5c100
+Formating state...
+PRINTING FINAL RESULT...
+30  76  b2  ed  
+d4  06  db  7b  
+49  ef  e4  c9  
+92  de  50  f2  
+newText = c7dba11b25b5afea471451cf1a2b5e54
+Formating state...
+PRINTING FINAL RESULT...
+36  63  a7  42  
+d6  78  a4  e7  
+86  72  72  7e  
+d1  a4  bc  b8  
+newText = 9cd69aac95941dd68f1607b4767f83fe
+Formating state...
+PRINTING FINAL RESULT...
+4d  21  e0  b7  
+27  c7  5b  54  
+a7  9e  81  cd  
+fc  88  cc  f3  
+newText = 12273fd6c54e29eea06357655a87853b
+Formating state...
+PRINTING FINAL RESULT...
+a5  97  3b  7f  
+90  cf  0d  4d  
+85  c6  64  34  
+e5  b3  c2  03  
+newText = 78ad40128bf9abba2b734f6b2653b071
+Formating state...
+PRINTING FINAL RESULT...
+21  13  41  9a  
+e6  22  67  fc  
+93  2c  81  1b  
+57  76  98  bf  
+newText = 136c3003e290bac4bff30c4d8f1b1544
+Formating state...
+PRINTING FINAL RESULT...
+55  1c  94  2f  
+ef  f0  5e  b6  
+d0  e7  05  1d  
+46  08  ec  8e  
+newText = fc637fdffa2fcd53aad558b59a9eab7e
+Formating state...
+PRINTING FINAL RESULT...
+cb  c9  23  11  
+d4  ce  38  ac  
+6c  b3  f3  59  
+71  03  1b  2f  
+newText = bd4970e659db0d936b8b08ca4239b56e
+Formating state...
+PRINTING FINAL RESULT...
+5f  48  1e  41  
+63  2c  d5  87  
+a9  f6  c2  53  
+d8  1d  30  e5  
+newText = f82473ebf0678041e3d5255549ffd5a3
+Formating state...
+PRINTING FINAL RESULT...
+95  36  58  1f  
+65  47  db  55  
+d7  76  5f  7e  
+a5  bf  6b  09  
+newText = 816e86ed0c98d77f0d1aedf752278044
+Formating state...
+PRINTING FINAL RESULT...
+0f  64  dc  d2  
+8d  08  36  d4  
+f0  68  35  84  
+c1  87  ab  99  
+newText = c486cafba49135d45739aa08c362c34d
+Formating state...
+PRINTING FINAL RESULT...
+f0  22  53  59  
+23  52  e0  05  
+2b  a8  d3  de  
+79  c3  a6  82  
+newText = 2b9c118ef78da296a5ec41888f0bc5cf
+Formating state...
+PRINTING FINAL RESULT...
+48  40  4b  5e  
+34  62  7f  2b  
+ca  6d  1d  6b  
+af  a8  d5  18  
+newText = 34ca6d39709310aa21211f6c017088ed
+Formating state...
+PRINTING FINAL RESULT...
+91  e7  48  69  
+75  be  ee  d4  
+db  34  0d  9c  
+8b  23  c7  e1  
+newText = ccec20dd1698cf3e5c4b4ce9a8da20f5
+Formating state...
+PRINTING FINAL RESULT...
+c1  f1  1c  15  
+56  00  f4  f7  
+96  a7  0b  92  
+30  2d  c8  66  
+newText = 94ad69c869e90c56b93ee03d204e4030
+Formating state...
+PRINTING FINAL RESULT...
+74  63  65  77  
+5d  47  8e  b4  
+2a  2b  12  b5  
+f5  9a  32  aa  
+newText = 3d9135199f017db8ddf610fdd7d9ee00
+Formating state...
+PRINTING FINAL RESULT...
+0b  84  b3  c0  
+68  ad  72  56  
+53  ff  37  ff  
+ca  c2  56  f4  
+newText = 219687cce4bc55633055bd6fcb321353
+Formating state...
+PRINTING FINAL RESULT...
+3b  0f  97  c2  
+6a  4d  1f  53  
+e3  48  ad  18  
+80  c8  e3  07  
+newText = d010f4a8da15690ed6139eef744abf1e
+Formating state...
+PRINTING FINAL RESULT...
+c2  35  0e  4d  
+43  a4  08  7c  
+e8  10  73  fb  
+26  99  15  0d  
+newText = 773ef4769d5319745810396059be3bb5
+Formating state...
+PRINTING FINAL RESULT...
+84  5d  03  5c  
+fd  c8  70  14  
+ea  5a  3d  0d  
+29  a9  7f  19  
+newText = 89697745473044d083e5c2b3433048b5
+Formating state...
+PRINTING FINAL RESULT...
+98  f9  28  95  
+69  47  b1  d3  
+7d  a9  06  0c  
+19  7f  b7  9b  
+newText = 259af959d677de21e13005a4070cad1f
+Formating state...
+PRINTING FINAL RESULT...
+83  a4  a4  44  
+71  e6  1c  3d  
+d1  36  b2  8e  
+ad  9b  af  11  
+newText = 3314eede17fe2bd927c9090a9c67f5a3
+Formating state...
+PRINTING FINAL RESULT...
+49  e2  2d  84  
+00  5b  8c  54  
+e2  8c  40  4d  
+e7  7b  a3  db  
+newText = 3e3b633a989bba81a0f5ad77f08287d2
+Formating state...
+PRINTING FINAL RESULT...
+75  50  f1  1c  
+eb  be  fc  b5  
+60  97  8f  5f  
+ed  de  cb  24  
+newText = 1c1c1424671fb7d5ae110b9169d1a684
+Formating state...
+PRINTING FINAL RESULT...
+96  5a  c3  a1  
+6e  03  0f  ab  
+1d  da  39  1e  
+8c  de  4f  3f  
+newText = f44856c7a5a731dc198cf5920c4d3643
+Formating state...
+PRINTING FINAL RESULT...
+77  6d  51  3a  
+d9  63  fb  f0  
+5a  e3  87  bd  
+f5  43  da  08  
+newText = d20f075c4b294e4ee1a0da60f990db9e
+Formating state...
+PRINTING FINAL RESULT...
+f8  e5  4e  b7  
+e7  5b  cb  fd  
+42  df  d7  74  
+a2  79  c5  68  
+newText = cab405ee1d4b8e4d4aa063afc04f0cc5
+Formating state...
+PRINTING FINAL RESULT...
+2f  20  c1  87  
+9d  4a  20  57  
+9d  a2  fc  50  
+2c  fa  d2  b9  
+newText = 703bd95ef9b80551ee3e5d1e12b8c06c
+Formating state...
+PRINTING FINAL RESULT...
+cd  73  68  9b  
+0e  1a  d5  f1  
+12  c2  df  40  
+d2  1f  87  79  
+newText = 7a8aeac1dbadd467f38af09c90df00d8
+Formating state...
+PRINTING FINAL RESULT...
+c3  bb  4f  29  
+6b  74  a6  c7  
+05  99  33  83  
+0b  23  84  1c  
+newText = fbbd7f414215e5a2f375cc66a4720837
+Formating state...
+PRINTING FINAL RESULT...
+e6  e1  af  77  
+3d  7a  c2  d0  
+7b  a6  4e  f8  
+0e  f7  84  0a  
+newText = 8b778eec086e3db8951e5a001423a2ce
+Formating state...
+PRINTING FINAL RESULT...
+f8  2d  bd  1e  
+69  78  eb  f3  
+47  90  f5  a5  
+c9  1e  cd  7e  
+newText = d053aeb9fd55fd569cfb75deb6ecdc8d
+Formating state...
+PRINTING FINAL RESULT...
+22  d7  88  08  
+8f  af  6c  5c  
+2f  b6  bc  46  
+39  88  ec  e8  
+newText = dbe642cf00e6a2645174b28d44c90081
+Formating state...
+PRINTING FINAL RESULT...
+fd  df  52  1c  
+1e  f6  18  a3  
+9b  6c  39  70  
+5c  dd  56  bd  
+newText = a4a0d1919cf04e578c5c39fc04471680
+Formating state...
+PRINTING FINAL RESULT...
+0d  57  8e  cb  
+af  9f  57  2a  
+ab  86  3c  f3  
+31  9d  ef  2a  
+newText = 5343c73607119a790515c5c295d11900
+Formating state...
+PRINTING FINAL RESULT...
+28  b7  ec  3f  
+ef  16  42  14  
+c9  d0  1f  13  
+81  60  86  c2  
+newText = 294eddd65c451e700f46b56853d0dc2f
+Formating state...
+PRINTING FINAL RESULT...
+72  a3  c1  3b  
+56  eb  5c  fb  
+15  5f  96  b1  
+2c  cb  a2  c2  
+newText = 48e864e140474b97fc2ea8a978c0af01
+Formating state...
+PRINTING FINAL RESULT...
+b6  ef  e0  c3  
+cc  81  76  3d  
+ac  f5  78  f9  
+7e  de  2d  f6  
+newText = 11e7967c2e5baa23447710f5b3114f58
+Formating state...
+PRINTING FINAL RESULT...
+d0  ff  f7  ce  
+4d  97  69  55  
+f0  bc  9f  3f  
+7d  d0  92  94  
+newText = b5a66fb0b9ed5d7e2c1a292e9062d9bf
+Formating state...
+PRINTING FINAL RESULT...
+dc  84  5d  01  
+54  43  66  ba  
+5e  ab  49  84  
+6c  3b  13  42  
+newText = a05585d8b94672f33d19b55da36f689e
+Formating state...
+PRINTING FINAL RESULT...
+86  35  42  3d  
+64  c6  45  f5  
+84  de  57  db  
+43  ea  13  a4  
+newText = 978d683091d062b7d17368710cc83f52
+Formating state...
+PRINTING FINAL RESULT...
+d1  18  4e  46  
+17  33  2b  5c  
+54  1c  df  ea  
+e5  29  a2  a4  
+newText = 9a8ff522f098d95d023d9c045e45b569
+Formating state...
+PRINTING FINAL RESULT...
+00  38  9a  9c  
+fd  d3  2a  44  
+05  42  a7  06  
+f2  19  32  a2  
+newText = 66985200d3f2d96db11ae70623e9b73f
+Formating state...
+PRINTING FINAL RESULT...
+d4  ef  30  2e  
+73  9b  b7  ad  
+b2  c1  ea  96  
+13  c4  fc  b9  
+newText = db799dc645c8f21bafc41c0cd125819b
+Formating state...
+PRINTING FINAL RESULT...
+44  2c  f9  d1  
+e8  6b  1f  f8  
+25  f0  da  ad  
+e4  5b  c2  6d  
+newText = 9bbbedf2e6ae6611f8be0a80a073e242
+Formating state...
+PRINTING FINAL RESULT...
+c9  b4  10  04  
+ae  83  ec  ac  
+26  5c  0a  ea  
+c0  2a  8c  92  
+newText = 9a7d5345917c295489c9d0d96653d41a
+Formating state...
+PRINTING FINAL RESULT...
+a0  19  fe  1d  
+cf  dd  32  08  
+a6  91  90  27  
+97  3b  75  1d  
+newText = 428ad4c028fe3c50b35f5441d1b1f4bb
+Formating state...
+PRINTING FINAL RESULT...
+d2  ea  21  a7  
+3f  1e  8d  69  
+77  a0  5e  b7  
+74  82  a2  d4  
+newText = b103fcd32dc3939926546fdd3ef74cf0
+Formating state...
+PRINTING FINAL RESULT...
+2b  b2  8c  95  
+3d  af  25  98  
+42  88  74  c8  
+0a  00  4c  aa  
+newText = f3d6ec407d2d0706950efbab1bec4a52
+Formating state...
+PRINTING FINAL RESULT...
+91  8d  3f  d0  
+1e  8c  3c  52  
+01  d2  98  3c  
+1b  a6  9a  ca  
+newText = 205d52916f5005064c16ce5297cd374c
+Formating state...
+PRINTING FINAL RESULT...
+58  a8  f1  29  
+b1  e6  dc  bd  
+07  2e  05  21  
+ca  b0  e8  5b  
+newText = 61d04d48f37fb83eac5a2a6f3844ee9a
+Formating state...
+PRINTING FINAL RESULT...
+d3  50  86  12  
+08  ea  f1  85  
+fd  16  cc  1e  
+e5  0a  af  a1  
+newText = 4b50b4f060498f326655332348f0378c
+Formating state...
+PRINTING FINAL RESULT...
+7b  1d  06  cf  
+64  ae  64  f9  
+f2  da  7b  f9  
+e1  2c  b5  7e  
+newText = d3899d5f2924557e78ea7fbad2421632
+Formating state...
+PRINTING FINAL RESULT...
+aa  54  e5  a6  
+1f  f2  f2  13  
+2d  c6  21  67  
+4e  8b  5d  f6  
+newText = 1a170b5cca1f414e5cf87f2d64cb35e6
+Formating state...
+PRINTING FINAL RESULT...
+97  8f  0c  86  
+f5  9c  28  44  
+65  b2  60  2e  
+37  8b  d2  bd  
+newText = 460dbb05182126eb56912afa15d10e28
+Formating state...
+PRINTING FINAL RESULT...
+dc  ac  3e  db  
+39  8d  8e  3e  
+01  4b  c2  ce  
+e2  ec  69  9e  
+newText = fb14b7c3da3404ce0de15c743965e4cc
+Formating state...
+PRINTING FINAL RESULT...
+3e  d8  d8  9d  
+bd  6b  61  dc  
+57  11  04  7a  
+ca  36  a4  80  
+newText = d970940c2abbbc67b4995dee11b77c44
+Formating state...
+PRINTING FINAL RESULT...
+f7  f0  aa  d5  
+52  f2  2d  66  
+04  c9  76  98  
+6d  80  79  48  
+newText = 75a04907c673b1a2e721191f4f5ca837
+Formating state...
+PRINTING FINAL RESULT...
+9d  bc  02  db  
+5b  b7  9c  61  
+e7  26  a2  91  
+a5  50  fa  9c  
+newText = d3f932372152c7c5070840717d5b45a9
+Formating state...
+PRINTING FINAL RESULT...
+79  04  02  d9  
+c4  5e  60  41  
+66  d1  16  4f  
+94  c0  2c  f2  
+newText = f5a110291b6ffa38f5c0a68ec3868f74
+Formating state...
+PRINTING FINAL RESULT...
+16  31  9b  d4  
+be  80  26  a9  
+1e  8d  f8  f2  
+a9  93  1f  31  
+newText = c7d257a6371ac233d276397cc4b57e79
+Formating state...
+PRINTING FINAL RESULT...
+34  34  32  0e  
+6e  35  c8  ac  
+f6  db  f8  df  
+61  3b  3c  f9  
+newText = a64e20403ac2cdb02e220c83efc54dd7
+Formating state...
+PRINTING FINAL RESULT...
+f9  21  77  f4  
+8a  9c  0f  91  
+9d  9d  1c  aa  
+17  8f  9d  4d  
+newText = d26a05f3784c39d199272be1b812cce5
+Formating state...
+PRINTING FINAL RESULT...
+74  1c  b4  28  
+d5  cc  ab  14  
+44  2d  2d  de  
+75  42  64  92  
+newText = 7a49a34b2caab18aeca67ca9f89cdf6f
+Formating state...
+PRINTING FINAL RESULT...
+f1  49  48  0d  
+e7  67  5e  d6  
+1e  15  c7  5e  
+4a  f3  9f  3e  
+newText = e44e499de3425f7030fba412ad5ca947
+Formating state...
+PRINTING FINAL RESULT...
+0f  2c  4e  7f  
+b3  2e  f7  e9  
+11  07  2c  0b  
+2a  3d  5e  c2  
+newText = 91b0ef5010ac20f9d8491ef52ceb7d5b
+Formating state...
+PRINTING FINAL RESULT...
+32  ae  58  38  
+46  cb  c0  09  
+6b  b5  7e  5f  
+00  08  47  8d  
+newText = ebd18e1e8964edbeb4a626042094a3e4
+Formating state...
+PRINTING FINAL RESULT...
+b7  2b  02  a7  
+d9  d2  37  93  
+cb  f8  ca  91  
+b1  45  b6  5d  
+newText = 85cf2417e20b01cd387d567dfacefd58
+Formating state...
+PRINTING FINAL RESULT...
+78  31  70  6d  
+c2  42  b0  75  
+b0  0c  1b  ef  
+b2  68  41  dd  
+newText = bab7a62912c1841bea4b7ffff9c6e803
+Formating state...
+PRINTING FINAL RESULT...
+eb  a6  26  59  
+b1  e8  b2  93  
+5a  f9  21  f2  
+14  0e  f2  06  
+newText = 4cc45cc862aeb1b4ad883df02af7c0ba
+Formating state...
+PRINTING FINAL RESULT...
+47  f2  6c  ee  
+62  89  16  6f  
+a2  3a  cd  92  
+cf  c0  90  3b  
+newText = 4e1ca29a8f4cf371a890e49eb871841a
+Formating state...
+PRINTING FINAL RESULT...
+17  c9  37  71  
+06  d7  5e  f7  
+22  eb  99  a5  
+1c  ba  2f  85  
+newText = d4f604b47d9457c88513f6f8e56467e7
+Formating state...
+PRINTING FINAL RESULT...
+de  9a  12  0c  
+cc  64  99  d5  
+0c  16  e2  ba  
+6a  dd  fc  d3  
+newText = bd0990310509e65512c7d0496588fac6
+Formating state...
+PRINTING FINAL RESULT...
+e1  6e  94  4f  
+1d  d9  99  b3  
+a8  17  d2  b0  
+20  e7  70  fe  
+newText = 7e9dbef611463b0075d85c99fa3a330a
+Formating state...
+PRINTING FINAL RESULT...
+d5  d5  25  93  
+16  4c  49  b7  
+f4  41  a5  9d  
+c4  29  a9  5c  
+newText = 24c69de81acd3b59db6b8cc4b4902923
+Formating state...
+PRINTING FINAL RESULT...
+c2  d1  ec  45  
+5f  aa  92  db  
+d2  8b  32  3f  
+65  37  f5  a9  
+newText = 652770f1c01ab15ba34a3e0462cd74bb
+Formating state...
+PRINTING FINAL RESULT...
+c3  6a  fe  42  
+e3  42  51  75  
+56  6a  f5  d7  
+68  49  b1  2f  
+newText = 2b62b9edbd6c1df2373f1b94bb7730a7
+Formating state...
+PRINTING FINAL RESULT...
+29  95  5f  1f  
+8c  1d  f5  a9  
+c2  bf  8e  e2  
+e8  40  1c  57  
+newText = ace7c040d2c3735e81f7a1848b733a22
+Formating state...
+PRINTING FINAL RESULT...
+19  76  b3  af  
+38  78  d0  f7  
+3d  dc  57  2b  
+ea  a9  6d  9f  
+newText = 4a8430cabbf2c04a6d9ca8768dc739d1
+Formating state...
+PRINTING FINAL RESULT...
+74  a9  7a  41  
+ac  aa  af  f0  
+48  32  27  25  
+a9  17  17  2f  
+newText = 522a634d404d898dc83df5a1fab79925
+Formating state...
+PRINTING FINAL RESULT...
+2b  be  d4  29  
+8a  19  85  a8  
+f7  de  dd  88  
+2e  25  09  1b  
+newText = 2be827fba859968bc339fa9e0a891208
+Formating state...
+PRINTING FINAL RESULT...
+3b  cd  2c  d4  
+49  8a  54  88  
+3c  6b  1c  a2  
+aa  8d  ad  78  
+newText = fe7fd65b0b619fe457570864ab6c11c5
+Formating state...
+PRINTING FINAL RESULT...
+e7  4d  1f  0f  
+cd  fa  86  ee  
+f8  dc  d8  8f  
+36  43  15  d3  
